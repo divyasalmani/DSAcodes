@@ -1,0 +1,11 @@
+Popped 41 from the stack.
+Failed to pop from the stack.
+Failed to pop from the stack.
+Failed to pop from the stack.
+Popped 69 from the stack.
+Popped 65 from the stack.
+Failed to pop from the stack.
+Failed to pop from the stack.
+Popped 13 from the stack.
+Popped 42 from the stack.
+Popped 72 from the stack.

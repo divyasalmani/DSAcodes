@@ -1,0 +1,10 @@
+Popped 45 from the stack.
+Popped 17 from the stack.
+Popped 40 from the stack.
+Popped 18 from the stack.
+Popped 2 from the stack.
+Popped 45 from the stack.
+Popped 31 from the stack.
+Popped 39 from the stack.
+Popped 41 from the stack.
+Popped 38 from the stack.
